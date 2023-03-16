@@ -1,5 +1,5 @@
-line 1 second update for git_1
-line 2 second update for git_1
+line 1 second update for git_1 and git_2
+line 2 second update for git_1 and git_2
 line 3 second
 line 4 second
 line 5 second
